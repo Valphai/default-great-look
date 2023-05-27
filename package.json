@@ -1,0 +1,16 @@
+{
+  "name": "com.chocolate4.defaultgreatlook",
+  "version": "1.0.0",
+  "displayName": "Default Great Look",
+  "description": "Provides URP post processing and lighting settings.",
+  "unity": "2022.2",
+  "documentationUrl": "https://github.com/Valphai/default-great-look",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "14.0.7"
+ },
+  "author": {
+    "name": "Chocolate4",
+    "email": "chocolate4help@gmail.com",
+    "url": "https://github.com/Valphai/default-great-look"
+  }
+}
